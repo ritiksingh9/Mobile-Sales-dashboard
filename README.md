@@ -17,3 +17,7 @@ This project presents a Sales Dashboard optimized for mobile users via Power BI 
 📊 Interactive visuals: Bar charts, line graphs, donut charts, cards.
 
 📱 Designed and tested with Power BI Mobile layout
+
+
+connect me on linkedln :-www.linkedin.com/in/ritik-singh-0554622a7
+
